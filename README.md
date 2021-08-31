@@ -1,2 +1,30 @@
-# nearnftbot
-NEAR NFT viewer
+## Introduction
+NEAR NFT viewer bot <a href="https://t.me/nearnftbot">@nearnftbot</a> helps you quickly access NFTs of your own and someone else's wallets. 
+Built-in mode allows you to share any NFT via Telegram. 
+You can also transfer your wallet NFTs to another account.
+
+### Supports
+- <a href="https://pluminite.com/#/">PLUMINITE</a>
+- <a href="https://www.mintbase.io">MINTBASE</a>
+- <a href="https://paras.id">PARAS.ID</a>
+- <a href="https://near.watch">Near.Watch</a>
+- Other of <a href="https://nomicon.io/Standards/NonFungibleToken/Enumeration.html">NEP-181</a> 
+
+### Installation
+```
+$ npm install
+```
+
+### Usage
+```
+$ node bot.js
+```
+
+### Support
+<a href="https://t.me/nearwatch">Near.Watch technical support group (telegram)</a>
+
+### Video
+https://near.watch/videos/1.mp4
+
+
+
