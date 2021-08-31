@@ -1,0 +1,2 @@
+# nearnftbot
+NEAR NFT viewer
