@@ -20,7 +20,9 @@ $ npm install
 $ node bot.js
 ```
 
-Reply to NFT message with recipient's address for NFT transfer (see video below)
+Send Near wallet address to the bot for view it's NFTs.
+Type "@nearnftbot yourwallet.near" in any chats for view and send NFTs in inline mode.
+Reply to NFT message with recipient's address for NFT transfer (see video below).
 
 ### Video
 https://youtu.be/f3FscQ-HVfE
