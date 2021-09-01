@@ -1,6 +1,6 @@
 ## Introduction
 NEAR NFT viewer bot <a href="https://t.me/nearnftbot">@nearnftbot</a> helps you quickly access NFTs of your own and someone else's wallets. 
-Built-in mode allows you to share any NFT via Telegram. 
+Inline mode allows you to share any NFT via Telegram. 
 You can also transfer your wallet NFTs to another account.
 
 ### Supports
