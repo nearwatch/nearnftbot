@@ -20,11 +20,13 @@ $ npm install
 $ node bot.js
 ```
 
-### Support
-<a href="https://t.me/nearwatch">Near.Watch technical support group (telegram)</a>
+Reply to NFT message with recipient's address for NFT transfer (see video below)
 
 ### Video
-https://near.watch/videos/1.mp4
+https://youtu.be/f3FscQ-HVfE
+
+### Support
+<a href="https://t.me/nearwatch">Near.Watch technical support group (telegram)</a>
 
 
 
