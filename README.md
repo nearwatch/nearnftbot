@@ -21,11 +21,16 @@ $ node bot.js
 ```
 
 Send Near wallet address to the bot for view it's NFTs.
+
 Type "@nearnftbot yourwallet.near" in any chats for view and send NFTs in inline mode.
+
+Send NFT image to the bot for search it's owners
+
 Reply to NFT message with recipient's address for NFT transfer (see video below).
 
 ### Video
 https://youtu.be/f3FscQ-HVfE
+https://youtu.be/5FV-3Y2wDd4
 
 ### Support
 <a href="https://t.me/nearwatch">Near.Watch technical support group (telegram)</a>
